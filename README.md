@@ -25,7 +25,7 @@ GET /health
 Zwraca:
 {
 "status": "ok",
-"time": "ISO_TIMESTAMP"
+"time": "Timestamp"
 }
 
 Ten endpoint można przetestować bezpośrednio w przeglądarce:
@@ -47,9 +47,8 @@ Przykład body:
 
 Do testowania POST polecam użyć
 
-- Postman (najprostsza opcja)
+- Postman
 - curl w terminalu
-- narzędzi developerskich (fetch)
 
 Polecam narzędzie:
 https://www.postman.com/downloads/
