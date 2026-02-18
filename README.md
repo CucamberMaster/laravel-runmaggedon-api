@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Laravel Runmaggedon API
 
 ## Wymagania
@@ -56,6 +56,3 @@ https://www.postman.com/downloads/
 
 W przypadku wysłania niepoprawnego JSON serwer zwróci:
 400 Bad Request
-=======
-# laravel-runmaggedon-api
->>>>>>> 529453ab68ce7bebe0cfd9f2d3096ac174e7b791
